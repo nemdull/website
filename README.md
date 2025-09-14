@@ -90,5 +90,5 @@
     navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
   });
   new WOW().init();
-\n</script>
+</script>
 ```
